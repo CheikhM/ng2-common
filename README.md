@@ -15,7 +15,7 @@ so persons with little knowledge of Angular can use it.
 
 ### Example of use: 
 
-`<button [ncToggle]="description">Click</button>
+``` <button [ncToggle]="description">Click</button>
 <div #description>
 This is a block that will show and hide when clicking the button above...
-</div>`
+</div> ```
