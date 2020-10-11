@@ -13,7 +13,7 @@ All you need is two steps and the package will be ready for use:
 
 ## Documentation
 
-### ncToggle directive:
+### nc-toggle directive:
 This is a very powerful directive that make bloc of code toggle(show/hide) when clicking a trigger in specific template, 
 the text will hide automatically at the beggining and will change status everytime you click the button.
 you can also configure the animation that will take place when changing element visibility, and the directive is fully customazible with properties,
