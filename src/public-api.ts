@@ -3,5 +3,6 @@
  */
 
 export * from './lib/ng2-common.service';
-export * from './lib/ng2-common.component';
 export * from './lib/ng2-common.module';
+export * from './lib/directives/nc-toggle.directive';
+export * from './lib/components/confirm-box/confirm-box-component';

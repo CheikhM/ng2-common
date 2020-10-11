@@ -1,12 +1,25 @@
 import { NgModule } from '@angular/core';
-import { Ng2CommnonComponent } from './ng2-common.component';
-
-
-
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { ToggleDirective } from './directives/nc-toggle.directive';
+import { MatDialogModule } from "@angular/material/dialog";
+import { ConfirmationBoxModal } from './components/confirm-box/confirm-modal.component';
+import { ConfirmBox } from './components/confirm-box/confirm-box-component';
 @NgModule({
-  declarations: [Ng2CommnonComponent],
-  imports: [
+  declarations: [
+    ToggleDirective,
+    ConfirmationBoxModal,
+    ConfirmBox,
   ],
-  exports: [Ng2CommnonComponent]
+  imports: [
+    BrowserAnimationsModule,
+    MatDialogModule
+  ],
+  entryComponents: [
+    ConfirmationBoxModal
+  ],
+  exports: [
+    ToggleDirective,
+    ConfirmBox,
+  ]
 })
 export class Ng2CommnonModule { }
