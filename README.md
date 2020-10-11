@@ -21,7 +21,10 @@ This is a block that will show and hide when clicking the button above...
 ```
 
 ### nc-confirm component:
-This comp....
+Whenever you want to make a confirmation before an action, you may need a modal, and you create
+a code everytime to deal with that, so we create for you a useful compononent, that use the Angular way, 
+because it it built on top of Angular material, with a very easy syntax, so all you need is a small pieces of code, 
+to deal with this commonly encountered task.
 
 #### Example of use: 
 ```
