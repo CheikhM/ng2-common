@@ -42,4 +42,4 @@ to deal with this commonly encountered task.
 
 ## Notice
 This library is under construction, and will be soon part of nmp online registery, so everyone can install it easly 
-and take advantage of it :smile:, we also welcome any participation to the libraray :fire:.
+and take advantage of it :smile:, we also welcome any participation to the libraray :pray:.
