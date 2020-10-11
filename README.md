@@ -1,7 +1,7 @@
-# ng2-common :smile:
+# ng2-common
  
-The idea behind this open source package is that lot of tasks are repetitive and need to be automated,
-so this package can safe you lot of time by transforming lot of code lines to small reusable peaces of code
+The idea behind this open source package is that lot of tasks are repetitive :triumph: so it's a greate idea if we can automate it,
+and that will safe you lot of time and energy :smiley: by transforming lot of code lines to small reusable peaces of code.
 
 
 ## Documentation
