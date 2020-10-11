@@ -13,14 +13,18 @@ you can also configure the animation that will take place when changing element 
 so persons with little knowledge of Angular can use it. 
 
 #### Example of use: 
-``` <button [ncToggle]="description">Click</button>
+``` 
+<button [ncToggle]="description">Click</button>
 <div #description>
 This is a block that will show and hide when clicking the button above...
-</div> ```
+</div> 
+```
 
 ### nc-confirm component:
 This comp....
 
 #### Example of use: 
-``` <nc-confirm [data]="confimDate" [trigger]="deleteButton" (confirm)="deleteItem()"></nc-confirm>
-<button #deleteButton>delete</button>/> ```
+```
+<nc-confirm [data]="confimDate" [trigger]="deleteButton" (confirm)="deleteItem()"></nc-confirm>
+<button #deleteButton>delete</button>/> 
+```
