@@ -1,12 +1,11 @@
 import { NgModule } from '@angular/core';
-import { Ng2CommnonComponent } from './ng2-common.component';
-
-
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
-  declarations: [Ng2CommnonComponent],
+  declarations: [],
   imports: [
+    BrowserAnimationsModule,
   ],
-  exports: [Ng2CommnonComponent]
+  exports: []
 })
 export class Ng2CommnonModule { }

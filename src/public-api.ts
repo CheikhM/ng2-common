@@ -3,5 +3,4 @@
  */
 
 export * from './lib/ng2-common.service';
-export * from './lib/ng2-common.component';
 export * from './lib/ng2-common.module';
