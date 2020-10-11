@@ -31,3 +31,8 @@ to deal with this commonly encountered task.
 <nc-confirm [data]="confimDate" [trigger]="deleteButton" (confirm)="deleteItem()"></nc-confirm>
 <button #deleteButton>delete</button>/> 
 ```
+
+
+## Notice
+This library is under construction, and will be soon part of nmp online registery, so everyone can install it easly 
+and take advantage of it :smile:, we also welcome any participation to the libraray.
