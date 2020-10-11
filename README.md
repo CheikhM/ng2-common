@@ -1,4 +1,4 @@
-# ng2-common :star: :star: :star: :star:
+# :star: :star: ng2-common :star: :star:
  
 The idea behind this open source package is that lot of tasks are repetitive :triumph: so it's a greate idea if we can automate it,
 and that will safe you lot of time and energy :smiley: by transforming lot of code lines to small reusable peaces of code.
