@@ -3,6 +3,13 @@
 The idea behind this open source package is that lot of tasks are repetitive :triumph: so it's a greate idea if we can automate it,
 and that will safe you lot of time and energy :smiley: by transforming lot of code lines to small reusable peaces of code.
 
+## Installation
+All you need is two steps and the package will be ready for use:
+
+1- This packaage will soon be a part of nmp online repository, and will become availible at:
+`npm install ng2-common`
+2- the second step you need to de is importing the **Ng2CommnonModule**, and you're ready to use it :smily:
+
 
 ## Documentation
 
