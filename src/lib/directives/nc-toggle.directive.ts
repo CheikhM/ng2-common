@@ -2,11 +2,11 @@ import {Directive, ElementRef, HostListener, Input, OnInit} from '@angular/core'
 import { style, animate, AnimationBuilder, AnimationFactory } from '@angular/animations';
 
 @Directive({
-  selector: '[ncToggle]',
+  selector: '[nc-toggle]',
 })
 export class ToggleDirective implements OnInit{
 
-  @Input('ncToggle') bloc: any;
+  @Input('nc-toggle') bloc: any;
   shown: boolean = false;
 
   constructor(public el: ElementRef, private builder: AnimationBuilder){}
