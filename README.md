@@ -40,7 +40,7 @@ to deal with this commonly encountered task.
 ```
 
 
-## Notice :warning:
+## Notices :warning:
 This library is under construction, and will be soon part of nmp online registery, so everyone can install it easly 
 and take advantage of it :smile:, we also welcome any code participation to the libraray :pray:.
 
