@@ -40,11 +40,11 @@ to deal with this commonly encountered task.
 ```
 
 
-## Notice
+## Notice :warning:
 This library is under construction, and will be soon part of nmp online registery, so everyone can install it easly 
 and take advantage of it :smile:, we also welcome any code participation to the libraray :pray:.
 
-## How to contribute :muscle: :muscle:
+## How to contribute :muscle:
 - Features should respect: `Feat/bla_bla_bla`
 - Fix should respect: `Fix/bla_bla_bla`
 - All code should be strongly typed and fully commented
